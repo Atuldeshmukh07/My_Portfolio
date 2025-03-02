@@ -14,3 +14,11 @@
 .nav-logo {
 margin: 15px 5px 0px 2px;
 }
+
+.btn-dark { 
+    margin: 10px auto;
+	/* display: block; */
+    /* text-align: center;
+    width: fit-content; */
+}
+
